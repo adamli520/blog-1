@@ -6,3 +6,9 @@
 - https://github.com/itorr/sakana
 - https://github.com/DIYgod/APlayer
 - https://github.com/flymysql/CET4-Mouse-click-effects
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
+
+Copyright (c) 2022, AdamLi
