@@ -1,5 +1,5 @@
 # blog-1
-### 同步网站
+### 同步网站：
 [blog.lijun1314.xyz](https://blog.lijun1314.xyz/)
 
 ### 感谢：
