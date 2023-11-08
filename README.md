@@ -1,6 +1,6 @@
 # blog-1
 ### 同步网站：
-[blog.lijun1314.xyz](https://blog.lijun1314.xyz/)
+
 
 ### 感谢：
 - 阿里巴巴图标库: https://www.iconfont.cn/
